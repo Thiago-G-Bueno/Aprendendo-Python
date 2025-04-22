@@ -19,3 +19,8 @@ if encontrar in nome:
     print(f'{encontrar} está em {nome}')
 else:
     print(f'{encontrar} não está em {nome}')
+
+
+#As string em python são iteráveis, checa letra por letra 
+#São o in que em português é o em. Serve para verificar 
+# se um valor está presente em uma sequência ou não 
